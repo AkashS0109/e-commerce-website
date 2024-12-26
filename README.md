@@ -21,7 +21,7 @@ This project demonstrates the core functionality of an e-commerce site, includin
 - Interactive animations for a polished look and feel
 
 ### Live Demo
-No live demo is currently available. You can set it up locally using the instructions below.
+https://vercel.com/akashs0109s-projects/e-commerce-website
 
 
 ## Features
