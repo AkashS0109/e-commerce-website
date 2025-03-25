@@ -21,7 +21,7 @@ This project demonstrates the core functionality of an e-commerce site, includin
 - Interactive animations for a polished look and feel
 
 ### Live Demo
-https://vercel.com/akashs0109s-projects/e-commerce-website
+https://e-commerce-website-woad-nine.vercel.app/
 
 
 ## Features
